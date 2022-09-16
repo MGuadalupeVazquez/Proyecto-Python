@@ -2,6 +2,7 @@
 ## Módulo 2: Procesamiento de datos con Python
 
 Se realiza un análisis de la seguridad alimentaria tras la pandemia por COVID-19.
+
 Los datos se obtuvieron de la plataforma Kaggle (https://www.kaggle.com/datasets/pranav941/-world-food-wealth-bank?select=crop1.csv),
 disponibles en la carpeta comprimida `DataSets.zip`.
 
