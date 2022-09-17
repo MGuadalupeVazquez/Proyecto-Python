@@ -10,4 +10,4 @@ Los CSV se importaron directamente a Google Drive utilizando la API de kaggle, m
 también alojado en Google Colab (https://colab.research.google.com/drive/1vIbvXNviSS2ihtiX7BqKuzYb7jlQ2R3U?usp=sharing).
 
 El análisis exploratorio, preprocesamiento de datos y la resolución de problemas se muestran en `ProyectoPython.ipynb` o en
-Google Colab (https://colab.research.google.com/drive/1Kg77k2vlkLhWeFdXEcFgFo_r0iwuqMlS?usp=sharing).
+Google Colab (https://colab.research.google.com/drive/1TnT2ZKjRi7G0QjrwKB-iQ4u_8JeglloE?usp=sharing).
